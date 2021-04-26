@@ -1,0 +1,25 @@
+  main {
+    margin-bottom: 200%;
+  }
+
+  .floating-menu {
+    font-family: sans-serif;
+    background: #4e73df;
+    padding: 5px;;
+    width: 215px;
+    z-index: 100;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    margin-bottom: 68px;
+    border: 1px solid;
+    border-radius: 20px 0 0 20px;
+  }
+
+  .floating-menu p, 
+  .floating-menu h3 {
+    font-size: 1.9em;
+    display: block;
+    margin: 0 0.5em;
+    color: white;
+  }
